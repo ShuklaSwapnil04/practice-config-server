@@ -2,4 +2,4 @@ microservicce:
   student-service:
     my-service:
      endpoint:
-      uri: http://localhost:2000/student/addNewStudent
+      uri: http://localhost:1000/employee-service/addNewEmployee
