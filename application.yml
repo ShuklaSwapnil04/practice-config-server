@@ -1,0 +1,5 @@
+microservicce:
+  student-service:
+    my-service:
+     endpoint:
+      uri: http://localhost:2000/student/addNewStudent
